@@ -1,0 +1,5 @@
+data/plugins
+
+# .env contains environment-specific overrides.
+# See .env.example.
+.env
